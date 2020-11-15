@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Test sobre provincias</string>
+    <string name="Pregunta1">¿Cuántas provincias tiene Andalucia?</string>
+    <string name="Pregunta2">¿Cuántas provincias tiene Aragón?</string>
+    <string name="Pregunta3">¿Cuántas provincias tienen las islas Canarias?</string>
+    <string name="Pregunta4">¿Cuántas provincias tiene Cantabria?</string>
+    <string name="Pregunta5">¿Cuántas provincias tiene Cataluña?</string>
+    <string name="Pregunta6">¿Cuántas provincias tiene Navarra?</string>
+    <string name="Pregunta7">¿Cuántas provincias tiene Castilla y León?</string>
+    <string name="Pregunta8">¿Cuántas provincias tiene Castilla la Mancha?</string>
+    <string name="Pregunta9">¿Cuántas provincias tiene Galicia?</string>
+    <string name="Pregunta10">¿Cuántas provincias tiene el País Vasco?</string>
+    <string name="Pregunta11">¿Cuántas provincias tiene Asturias?</string>
+    <string name="Pregunta12">¿Cuántas provincias tienen las islas Baleares?</string>
+    <string name="Pregunta13">¿Cuántas provincias tiene la comunidad Valenciana?</string>
+    <string name="Pregunta14">¿Cuántas provincias tiene Extremadura?</string>
+    <string name="Pregunta15">¿Cuántas provincias tiene Madrid?</string>
+    <string name="Pregunta16">¿Cuántas provincias tiene Murcia?</string>
+    <string name="Pregunta17">¿Cuántas provincias tiene la Rioja?</string>
+    <string name="pista">Pista</string>
+    <string name="contadorPreguntes">Pregunta %1$d de 17</string>
+    <string name="contadorPreguntes1">Pregunta 1 of 17</string>
+</resources>
